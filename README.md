@@ -1,7 +1,7 @@
 
-# 📚 BiblioHub – MERN-Based Online Bookstore Web App
+# 📚 MERN-Based Online Bookstore Web App
 
-**BiblioHub** is a full-stack online bookstore web application developed using the MERN (MongoDB, Express, React, Node.js) stack.
+**BookStore** is a full-stack online bookstore web application developed using the MERN (MongoDB, Express, React, Node.js) stack.
 
 ## 🚀 Features
 
